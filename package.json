@@ -1,0 +1,19 @@
+{
+  "name": "gulp-sea-build",
+  "version": "0.0.7",
+  "description": "基于gulp的seajs模块打包插件",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "event-stream": "3.0.2",
+    "should": "~3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "linyandi",
+  "license": "MIT"
+}
